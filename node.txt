@@ -1,4 +1,1 @@
-# 韩国1
-ssr://a3IyLnl1bnNhaWxzLmNsdWI6MTcwNTc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfcG9zdDpTR2t5TURFNS8_b2Jmc3BhcmFtPQ
-# 韩国2
-ssr://a3IyLnl1bnNhaWxzLmNsdWI6MTcwNTc6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfcG9zdDpTR2t5TURFNS8_b2Jmc3BhcmFtPQ
+
